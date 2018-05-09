@@ -32,10 +32,6 @@ app.listen(3000, () => {
   console.log('Started on port 3000');
 });
 
-
-
-
-
 // let mongoose = require('mongoose');
 //
 // mongoose.Promise = global.Promise;
